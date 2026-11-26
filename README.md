@@ -4,7 +4,7 @@
 
 **先复现，再修复，用证据说话。** 把复杂问题，拆成可以验证的小步。
 
-📍 China · TypeScript · JavaScript · Go
+📍 China · Java ·  Go ·  Python · TypeScript · JavaScript 
 
 **[个人网站 →](https://ade-hale.github.io)** · [开源贡献 ↓](#开源协作)
 
