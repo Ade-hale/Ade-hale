@@ -4,7 +4,7 @@
 
 **Reproduce first, fix with evidence.** Turn complex problems into small, verifiable steps.
 
-📍 China · TypeScript · JavaScript · Go
+📍 China · Java ·  Go ·  Python · TypeScript · JavaScript
 
 **[Personal site →](https://ade-hale.github.io)** · [Open source ↓](#open-source)
 
